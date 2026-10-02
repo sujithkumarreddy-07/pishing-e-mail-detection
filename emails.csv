@@ -1,0 +1,17 @@
+text,label
+"Hello John, the meeting is scheduled for tomorrow at 10 AM.",safe
+"Please find the project report attached for your review.",safe
+"Thank you for attending today's meeting. See you tomorrow.",safe
+"Your assignment has been received successfully.",safe
+"Hi team, the project discussion is scheduled for Friday.",safe
+"Please review the document shared in the company drive.",safe
+"Your monthly statement is available in your official account portal.",safe
+"Reminder: Your appointment is scheduled for 3 PM.",safe
+"URGENT! Verify your account immediately at http://example.com/login",phishing
+"Your bank account has been suspended. Click the link to restore access.",phishing
+"Your password expires today. Confirm your account information now.",phishing
+"Security alert! Login immediately to prevent your account from being closed.",phishing
+"Congratulations! You won a prize. Click http://free-prize.example to claim it.",phishing
+"Urgent account verification required. Send your password to continue.",phishing
+"Click this link to update your bank details and avoid suspension.",phishing
+"Your email account needs verification. Login now to confirm ownership.",phishing
